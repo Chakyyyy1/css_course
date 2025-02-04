@@ -12,3 +12,11 @@ This is the list of CSS topics with their corresponding directories:
 22_lesson - CSS Transforms & Transistions
 23_lesson - BEM Naming Convention
 24_lesson - Little Taco Shop (Sample Project)
+
+Suggested References for the Hands-on Exercises:
+14_lesson - CSS Flexbox
+15_lesson - CSS Grid
+17_lesson - Media Queries
+18_lesson - Mini Project
+19_lesson - Mini Project (Profile Cards)
+24_lesson - Little Taco Shop (Sample Project)

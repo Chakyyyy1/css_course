@@ -10,13 +10,13 @@ body {
   font-family: "Roboto", sans-serif;
   min-height: 100vh;
   padding: 20px;
+  background-color: yellow;
 }
 
 .container {
   max-width: 800px;
   min-height: 400px;
   margin-inline: auto;
-  border: 1px solid #000;
   display: flex;
   gap: 1rem;
   justify-content: center;
@@ -28,8 +28,8 @@ body {
 .box {
   /* min-width: 100px; */
   height: 100px;
-  background-color: #000;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   font-size: 2rem;
   padding: 0.5rem;
 
@@ -37,10 +37,7 @@ body {
   justify-content: center; 
   align-items: center;
 
-  flex: 1 1 150px;
+  flex: 2 2 200px;
 }
 
-.box:nth-child(2) {
-  flex: 2 2 150px;
-  order: 1;
-}
+
