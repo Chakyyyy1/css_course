@@ -1,0 +1,14 @@
+This is the list of CSS topics with their corresponding directories:
+
+13_lesson - CSS Position
+14_lesson - CSS Flexbox
+15_lesson - CSS Grid
+16_lesson - CSS Images
+17_lesson - Media Queries
+18_lesson - Mini Project
+19_lesson - Mini Project (Profile Cards)
+20_lesson - CSS Variables
+21_lesson - CSS Functions
+22_lesson - CSS Transforms & Transistions
+23_lesson - BEM Naming Convention
+24_lesson - Little Taco Shop (Sample Project)
